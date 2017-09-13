@@ -1,2 +1,9 @@
 body {background-color: aliceblue}
 p {text-align:center}
+img {width: 50%}
+.fakeID {
+    width:50%;
+    height:500px;
+    float: left;
+    text-align: center;
+}
